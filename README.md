@@ -2,7 +2,7 @@ Inverse Reinforcement Learning (IRL), as described by Andrew Ng and Stuart Russe
 
 ### Reward function approximation for Gridworld Gym Environment using Inverse RL
 
-##  Value Iteration (8x8)
+##  Value Iteration (8x8) - Ground Truth
 ![Value Iteration Policy](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/value_iteration_policy.png)
 
 ## Linear programming (8x8)  
