@@ -3,11 +3,12 @@ Inverse Reinforcement Learning (IRL), as described by Andrew Ng and Stuart Russe
 
 ![Plot](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/linear_irl.png)
 
-![Maximum Entropy IRL](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/maximumentropy_deepirl.png)
-
 ![Value Iteration Policy](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/value_iteration_policy.png)
 
 ![Maximum Entropy IRL](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/maximumentropy_irl.png)
+
+![Deep RL Illustration](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/DeepRLPic.PNG)
+
 
 
 
