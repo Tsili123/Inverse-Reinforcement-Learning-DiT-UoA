@@ -5,8 +5,11 @@ Inverse Reinforcement Learning (IRL), as described by Andrew Ng and Stuart Russe
 ##  Value Iteration (8x8)
 ![Value Iteration Policy](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/value_iteration_policy.png)
 
-## Linear programming (8x8 )  
+## Linear programming (8x8)  
 ![Plot](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/linear_irl.png)
+
+## Max entropy IRL (8x8)  
+![Maximum Entropy Small IRL](https://github.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/blob/main/inv_rl_Aris_Tsilifonis_1115201700170/MaxEntSmallGrid.PNG)
 
 ## Max entropy IRL (25x25)     
 ![Maximum Entropy IRL](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/maximumentropy_irl.png)
