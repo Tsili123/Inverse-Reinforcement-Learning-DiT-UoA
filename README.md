@@ -9,7 +9,7 @@ Inverse Reinforcement Learning (IRL), as described by Andrew Ng and Stuart Russe
 ## Max entropy IRL (25x25)     
 ![Maximum Entropy IRL](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/maximumentropy_irl.png)
 
-## Max entropy Deep IRL (25x25) Com: Goal states correct! Better accu- racy than maximum entropy reward map 
+## Max entropy Deep IRL (25x25) Com: Goal states correct! Better accuracy than maximum entropy reward map 
 ![Deep RL Illustration](https://raw.githubusercontent.com/Tsili123/Inverse-Reinforcement-Learning-DiT-UoA/main/inv_rl_Aris_Tsilifonis_1115201700170/DeepRLPic.PNG)
 
 
